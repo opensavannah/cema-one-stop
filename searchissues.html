@@ -1,13 +1,20 @@
 ---
 layout: search
 ---
-<form action="{{ site.baseurl }}/searchissues" method="get">
-  <label for="search-box">Cosa Stai Cercando?</label>
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="Cerca">
-</form>
 
-<ul id="search-results"></ul>
+<div class="row">
+  <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    <div class="search form-inline text-center">
+      <form action="{{ site.baseurl }}/searchissues" method="get">
+        <label for="search-box">Cosa Stai Cercando?</label>
+        <input type="text" id="search-box" name="query">
+        <input type="submit" value="Cerca">
+      </form>
+      <img class="search-spinner" src="/img/spinner--squares.svg" />
+    </div>
+    <ul id="search-results"></ul>
+  </div>
+</div>
 
 <script>
 

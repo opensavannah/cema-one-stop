@@ -30,7 +30,28 @@
     }
   }
 
+  var spinner = (function() {
+    var module = {
+      hideClass: 'hideme'
+    };
+
+    module.show = function() {
+      module.element.classList.remove(module.hideClass);
+    };
+
+    module.hide = function() {
+      module.element.classList.add(module.hideClass);
+    };
+
+    module.init = function(element) {
+      module.element = element;
+    };
+
+    return module;
+  })();
+
   var searchTerm = getQueryVariable('query');
+  spinner.init(document.querySelector('.search-spinner'));
 
   if (searchTerm) {
     document.getElementById('search-box').setAttribute("value", searchTerm);
@@ -38,6 +59,7 @@
     // Initalize lunr with the fields it will be searching on. I've given title
     // a boost of 10 to indicate matches on this field are more important.
     var idx = lunr(function () {
+      console.log("Lunr init");
       this.field('id');
       this.field('title', { boost: 10 });
       this.field('author');
@@ -45,6 +67,7 @@
       this.field('content');
     });
 
+    console.log('Display results');
     for (var key in window.store) { // Add the data to lunr
       idx.add({
         'id': key,
@@ -57,5 +80,7 @@
       var results = idx.search(searchTerm); // Get lunr to perform a search
       displaySearchResults(results, window.store); // We'll write this in the next section
     }
+    console.log('Results showed');
+    spinner.hide();
   }
 })();

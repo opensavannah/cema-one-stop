@@ -7,13 +7,20 @@
 
 ## Georeferenziazione
 
+#### Qui ed ora. Nel tempo e nello spazio.
+
+#### "Eterna"
+
+#### Aperta?
+
 Note:
 - Hic et nunc. L'informazione georeferenziata è:
     - Fissata nel tempo
     - Fissata nello spazio
     - Sempre sovrapponibile
+    - Ma se non è aperta, a chi serve?
 
-+++
++++?image=pitchassets/2017-10-24_ICityLab/dryground.jpg&size=auto 95%
 
 ## Cambiamento
 

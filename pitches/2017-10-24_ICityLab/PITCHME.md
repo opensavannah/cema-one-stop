@@ -58,6 +58,8 @@ Mapillary?
 
 #### Come lavorare insieme alle istituzioni, sapendo che per innovare bisogna riarticolare l’organizzazione della governance, nella costruzione di politiche pubbliche, verso un’orizzontalità delle relazioni, mentre il sistema istituzionale continua ad essere basato sulla verticalità?
 
++++
+
 * Studiare tantissimo
 * Entrare anche nella governance
 * Darsi degli obiettivi a breve termine di dialogo
@@ -68,6 +70,8 @@ Mapillary?
 ---
 
 #### Come ci si misura con il rischio di uno sfruttamento (da parte delle amministrazioni, ma anche dei big players) del lavoro creativo “dal basso” come giacimento a cui attingere per risolvere questioni “dall’alto” con soluzioni non sempre civiche o rispondenti ai problemi posti?
+
++++
 
 * La prima cosa: essere **OPEN**. È un vaccino.
 * Secondo: ricordarsi che chi decide è chi comanda. Triste, ma vero (e forse giusto?)

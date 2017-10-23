@@ -3,7 +3,7 @@
 ### Matteo Fortini - ICityLab 2017
 
 
-+++?image=pitchassets/2017-10-24_ICityLab/hicetnunc.jpg
++++?image=pitchassets/2017-10-24_ICityLab/hicetnunc.jpg&size=auto 95%
 
 ## Georeferenziazione
 

@@ -186,6 +186,8 @@ prose:
     - /js
     - /scripts
     - /external
+    - /pitchassets
+    - /pitches
   metadata:
     _posts:
       - name: "layout"

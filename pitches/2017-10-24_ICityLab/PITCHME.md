@@ -2,9 +2,30 @@
 
 ### Matteo Fortini - ICityLab 2017
 
+
++++?image=pitchassets/2017-10-24_ICityLab/hicetnunc.jpg
+
+## Georeferenziazione
+
+Note:
+- Hic et nunc. L'informazione georeferenziata è:
+    - Fissata nel tempo
+    - Fissata nello spazio
+    - Sempre sovrapponibile
+
++++
+
+## Cambiamento
+
 ---
 
 #### Come possono contribuire i cittadini stessi alla collezione dei dati per la produzione di politiche pubbliche innovative?
+
++++
+
+* Documentare
+* Raccontare
+* Aumentare
 
 --- 
 

@@ -20,7 +20,7 @@ Note:
     - Sempre sovrapponibile
     - Ma se non è aperta, a chi serve?
 
-+++?image=pitchassets/2017-10-24_ICityLab/dryground.jpg&size=auto 95%
++++?image=pitchassets/2017-10-24_ICityLab/dry_ground.jpg&size=auto 95%
 
 ## Cambiamento
 

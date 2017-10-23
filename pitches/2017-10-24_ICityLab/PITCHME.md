@@ -34,7 +34,7 @@ Note:
 
 Basta una foto!
 
-![terremoto](pitchassets/2017-10-24_ICityLab/terremotoMichele.jpg){:width="512px"}<br/>(Foto di https://www.flickr.com/photos/gigiomc/)
+![terremoto](pitchassets/2017-10-24_ICityLab/terremotoMichele.jpg)<br/>(Foto di https://www.flickr.com/photos/gigiomc/)
 
 Note:
 Basta una foto.
